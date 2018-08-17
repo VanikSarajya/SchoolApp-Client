@@ -24,7 +24,7 @@ ul {
     display: flex;
     justify-content: center;
     line-height: 40px;
-    font-size: 18px;
+    font-size: 21px;
     font-weight: bold;
     opacity: 0.96;
 }
@@ -32,14 +32,14 @@ ul {
 .bar:hover {
     opacity: 1;
     color: black;
-    font-size: 20px;
+    font-size: 24px;
 
 }
 .content {
     display: flex;
     justify-content: center;
     background-color:whitesmoke;
-    width: 1000px;
+    width: 1200px;
     border-radius: 10px;
     margin: 5px 5px 5px 270px;
 }
@@ -61,7 +61,7 @@ a:hover, a:active {
     color:black;
 }
 .sidebar {
-    width: 250px;
+    width: 270px;
     background-color: black;
     margin: 5px;
     border-width: 10px;
@@ -95,9 +95,9 @@ th {
 }
 
 .email {
-    font-size: 10px;
+    font-size: 14px;
 }
 .error {
-    font-size: 13px;
+    font-size: 14px;
     color: red;
 }
